@@ -1,8 +1,8 @@
-version: 0.1.0
+version: 0.1.1
 files:
-  - url: Kanopi-Desktop-Setup-0.1.0.exe
-    sha512: UJVriNOAD7TuxQ8yw6zvEmPOuqoTGsZ+Z09jEgX8LWFQAonDEe9QwEJ0SvXrga7jxHKfmNI8jZ9uV3n449dnAA==
-    size: 90298935
-path: Kanopi-Desktop-Setup-0.1.0.exe
-sha512: UJVriNOAD7TuxQ8yw6zvEmPOuqoTGsZ+Z09jEgX8LWFQAonDEe9QwEJ0SvXrga7jxHKfmNI8jZ9uV3n449dnAA==
-releaseDate: '2026-05-19T08:18:41.337Z'
+  - url: Kanopi-Desktop-Setup-0.1.1.exe
+    sha512: HAapdAAD7P8PdeF8eMxZQAyU/UXnRiAtqb/1fyULzSFabXlTpWsR+5rU9sa7YyoYqltg9X1UOD/yHpX7aHmaZw==
+    size: 89710511
+path: Kanopi-Desktop-Setup-0.1.1.exe
+sha512: HAapdAAD7P8PdeF8eMxZQAyU/UXnRiAtqb/1fyULzSFabXlTpWsR+5rU9sa7YyoYqltg9X1UOD/yHpX7aHmaZw==
+releaseDate: '2026-05-21T17:06:06.384Z'
